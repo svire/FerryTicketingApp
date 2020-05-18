@@ -1,0 +1,56 @@
+﻿@model Projektnippp.Models.Racun
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Obrisi</h2>
+<h2>@ViewBag.Greska</h2>
+<h3>Jeste li sigurni da zelite ovo obrisati?</h3>
+<div>
+    <h4>Racun</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Karta.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Karta.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Iznos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Iznos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumVrijeme)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumVrijeme)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obrisi" class="btn btn-default" /> |
+            @Html.ActionLink("Vrati se na pregled", "Index")
+        </div>
+    }
+</div>

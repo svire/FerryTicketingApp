@@ -1,0 +1,56 @@
+﻿@model Projektnippp.Models.Karta
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Obriisi</h2>
+
+<h3>Jeste li sigurni da zelite ovo obrisati?</h3>
+<div>
+    <h4>Karta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Putnik1.ImePrezime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Putnik1.ImePrezime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Voznja1.Skracenica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Voznja1.Skracenica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sjediste_Broj)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sjediste_Broj)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obrisi" class="btn btn-default" /> |
+            @Html.ActionLink("Vrati se na listu", "Index")
+        </div>
+    }
+</div>

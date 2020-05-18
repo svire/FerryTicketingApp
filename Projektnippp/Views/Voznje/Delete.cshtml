@@ -1,0 +1,88 @@
+﻿@model Projektnippp.Models.Voznja
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Obrisi</h2>
+
+<h3>Jeste li sigurni da zelite ovo obrisati?</h3>
+<div>
+    <h4>Voznja</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brod.Naziv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brod.Naziv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Skracenica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Skracenica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Polaziste)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Polaziste)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dolaziste)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dolaziste)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vrijeme_polaska)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vrijeme_polaska)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Datum_polaska)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Datum_polaska)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Slobodna_mjesta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Slobodna_mjesta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cijena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cijena)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obrisi" class="btn btn-default" /> |
+            @Html.ActionLink("Vrati se na pregled", "Index")
+        </div>
+    }
+</div>

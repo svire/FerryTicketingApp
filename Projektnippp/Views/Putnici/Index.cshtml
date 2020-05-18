@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Projektnippp.Models.Putnik>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Spisak putnika</h2>
+<p>
+    @Html.ActionLink("Kreiraj novog putnika", "Create")
+</p>
+
+<br />
+<br />
+<br />
+<div class="col-md-6" align="center">
+    @using (Html.BeginForm("Index", "Putnici", FormMethod.Get))
+    {
+        <p>Ime i prezime<br /> @Html.TextBox("imeprezime")<br /></p>
+        <p>Adresa<br />  @Html.TextBox("adresa")<br /></p>
+        <p>Email<br />  @Html.TextBox("email")<br /></p>
+        <input type="submit" value="Pronadji putnika" style="background:#4553c1 ;color:white; border-radius:5px; padding:5px;" />
+    }
+</div>
+<br />
+<br />
+<br />
+
+<table class="table">
+    <tr style="background-color:#4553c1; color:white;">
+        <th>
+            @Html.DisplayNameFor(model => model.ImePrezime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Godine)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MjestoStanovanja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>AKCIJE</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr style="background-color:white; border:2px dotted #000000;">
+        <td>
+            @Html.DisplayFor(modelItem => item.ImePrezime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Godine)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MjestoStanovanja)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adresa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td style="border:2px dotted #000000;">
+            @Html.ActionLink("Promjeni", "Edit", new { id=item.PutnikId }) |
+            @Html.ActionLink("Detalji", "Details", new { id=item.PutnikId }) |
+            @Html.ActionLink("Obrisi", "Delete", new { id=item.PutnikId })
+        </td>
+    </tr>
+}
+
+</table>

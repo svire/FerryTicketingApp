@@ -1,0 +1,246 @@
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\ApplicationInsights.config
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\csc.exe
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\vbc.exe
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\VBCSCompiler.exe
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Projektnippp.dll.config
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Projektnippp.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Projektnippp.pdb
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Antlr3.Runtime.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\EntityFramework.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\EntityFramework.SqlServer.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.Web.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.ApplicationInsights.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Newtonsoft.Json.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Owin.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Helpers.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Mvc.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Optimization.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Razor.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.Deployment.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.Razor.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\WebGrease.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.Web.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.ApplicationInsights.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Helpers.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Mvc.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Optimization.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.Razor.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.Deployment.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\System.Web.WebPages.Razor.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Antlr3.Runtime.pdb
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Newtonsoft.Json.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\EntityFramework.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\EntityFramework.SqlServer.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\obj\Debug\Projektnippp.csprojResolveAssemblyReference.cache
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\obj\Debug\Projektnippp.dll
+c:\users\djole\documents\visual studio 2015\Projects\Projektnippp\Projektnippp\obj\Debug\Projektnippp.pdb
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\ApplicationInsights.config
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\csc.exe
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\vbc.exe
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Projektnippp.dll.config
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Projektnippp.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Projektnippp.pdb
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Antlr3.Runtime.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\EntityFramework.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\EntityFramework.SqlServer.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Web.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Newtonsoft.Json.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Owin.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Helpers.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Mvc.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Optimization.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Razor.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\WebGrease.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Web.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Helpers.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Mvc.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Optimization.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.Razor.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Antlr3.Runtime.pdb
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Newtonsoft.Json.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\EntityFramework.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\EntityFramework.SqlServer.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.csprojResolveAssemblyReference.cache
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.dll
+C:\Users\Djole\Desktop\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.pdb
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\ApplicationInsights.config
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\csc.exe
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\System.Collections.Immutable.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\vbc.exe
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\VBCSCompiler.exe
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\roslyn\VBCSCompiler.exe.config
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Projektnippp.dll.config
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Projektnippp.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Projektnippp.pdb
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Antlr3.Runtime.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\EntityFramework.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\EntityFramework.SqlServer.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Web.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.WindowsServer.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.ApplicationInsights.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Google.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Web.Infrastructure.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Newtonsoft.Json.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Owin.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Helpers.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Mvc.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Optimization.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Razor.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Deployment.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Razor.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\WebGrease.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.Web.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AI.WindowsServer.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.ApplicationInsights.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Helpers.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Mvc.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Optimization.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.Razor.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Deployment.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\System.Web.WebPages.Razor.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Antlr3.Runtime.pdb
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Newtonsoft.Json.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\EntityFramework.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\EntityFramework.SqlServer.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Google.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.csprojResolveAssemblyReference.cache
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.dll
+E:\Projektni radovi\asp valjda\PROJEKTNI RAD\ProjektniRad168\Projektnippp\obj\Debug\Projektnippp.pdb

@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Projektnippp.Models.Karta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Pregled karata</h2>
+<p>
+    @Html.ActionLink("Kreiraj novu kartu", "Create")
+</p>
+<br />
+<br />
+<br />
+<div class="col-md-6" align="center" >
+    @using (Html.BeginForm("Index", "Karte", FormMethod.Get))
+    {
+        <p>KartaId<br /> @Html.TextBox("kartaid")<br /></p>
+        
+
+        <input type="submit" value="Pronadji kartu" style="background:#4553c1 ;color:white; border-radius:5px; padding:5px;"/>
+    }
+</div>
+<br />
+<br />
+<br />
+
+<table class="table">
+    <tr style="background-color:#4553c1; color:white;">
+        <th>
+            Broj karte
+        </th>
+        <th>
+            Ime putnika
+        </th>
+        <th>
+            Karta za voznju
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sjediste_Broj)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th><center>AKCIJE</center></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr style="background-color:white; border:2px dotted #000000;">
+        <td>
+            @Html.DisplayFor(modelItem => item.KartaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Putnik1.ImePrezime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Voznja1.Skracenica)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sjediste_Broj)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td style="border:2px dotted #000000;">
+            @Html.ActionLink("Promjeni", "Edit", new { id=item.KartaId }) |
+            @Html.ActionLink("Detalji", "Details", new { id=item.KartaId }) |
+            @Html.ActionLink("Obrisi", "Delete", new { id=item.KartaId })
+        </td>
+    </tr>
+}
+
+</table>

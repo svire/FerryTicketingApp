@@ -1,0 +1,82 @@
+﻿@model Projektnippp.Models.Voznja
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Voznja</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brod.Naziv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brod.Naziv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Skracenica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Skracenica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Polaziste)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Polaziste)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dolaziste)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dolaziste)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vrijeme_polaska)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vrijeme_polaska)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Datum_polaska)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Datum_polaska)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Slobodna_mjesta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Slobodna_mjesta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cijena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cijena)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VoznjaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
